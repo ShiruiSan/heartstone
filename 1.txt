@@ -1,0 +1,4 @@
+1)с помощью setTimeout
+2)функция атака (attack);  функция проверка (check)
+3) enemy_hp , enemy_dmg , player_hp , player_dmg
+4)с помощью transition и opacity
